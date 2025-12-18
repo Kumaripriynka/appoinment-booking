@@ -5,9 +5,9 @@
 - **backend**
   - `package.json`
   - `src`
-    - `index.js` (Express server bootstrap)
-    - `app.js` (Express app, middleware, routes)
-    - `config/db.js` (MongoDB Atlas connection)
+    - `index.js`
+    - `app.js` 
+    - `config/db.js` 
     - `models`
       - `User.js`
       - `Slot.js`
